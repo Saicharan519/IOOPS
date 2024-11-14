@@ -1,0 +1,2 @@
+hello
+i am writing this code to replace the words in the txt file
